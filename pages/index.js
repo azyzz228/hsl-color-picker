@@ -149,7 +149,7 @@ export default function Home() {
       <footer className='bottom-0 absolute container p-20 border-t-2 border-natural-500'>
         <div className="flex flex-row justify-start items-center space-x-8">
           <p>Create By Aziz Abdullaev for working with colors based on knowledge from Refactoring UI.</p>
-          <a href="https://github.com/azyzz228/hsl-color-picker" target="_blank" ><i className="fa-brands fa-github text-4xl transition hover:scale-110"></i></a>
+          <a href="https://github.com/azyzz228/hsl-color-picker" target="_blank" rel="noreferrer"><i className="fa-brands fa-github text-4xl transition hover:scale-110"></i></a>
         </div>
       </footer>
     </>
