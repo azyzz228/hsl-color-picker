@@ -99,7 +99,7 @@ export default function Home() {
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css" integrity="sha512-1sCRPdkRXhBV2PBLUdRb4tMg1w2YPf37qatUFeS7zlBy7jJI8Lf4VHwWfZZfpXtYSLy85pkm9GaYVYMfw5BC1A==" crossOrigin="anonymous" referrerPolicy="no-referrer" />
       </Head>
 
-      <div className="container mx-auto flex flex-row items-start justify-center gap-36 p-16 border ">
+      <div className="container mx-auto flex flex-col items-center md:flex-row md:items-start md:justify-center gap-36 p-16 border ">
         <div className="flex flex-col justify-start items-center space-y-4">
           <div className="flex flex-row justify-start items-center space-x-8">
             <div className='w-32 h-32' style={{ backgroundColor: HEXColor }}></div>
